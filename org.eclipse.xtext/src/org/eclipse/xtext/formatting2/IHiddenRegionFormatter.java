@@ -44,7 +44,7 @@ public interface IHiddenRegionFormatter {
 	void setOnAutowrap(IAutowrapFormatter formatter);
 
 	/**
-	 * Returns teh current formatter request and allows to read configuration settings.
+	 * Returns the current formatter request and allows to read configuration settings.
 	 */
 	FormatterRequest getRequest();
 
